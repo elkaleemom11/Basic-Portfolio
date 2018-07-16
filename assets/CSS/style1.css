@@ -84,6 +84,6 @@ h2 {
     height: 50px;
 }
 
-a:link {
-    text-decoration: none;
+a:hover {
+    background-color: lightgray;
 }

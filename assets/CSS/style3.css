@@ -20,10 +20,8 @@ nav {
     margin-right: 200px;
     transform: translate(0%,-250%);
     padding-bottom: 0px;
-        
-    
-    
-}
+  }
+
 
 h1 {
     background-color: #4aaaa5;
@@ -78,14 +76,17 @@ h2 {
 .text-block {
     position: absolute;
     bottom: 20px;
-    width: 280px;
+    width: 320px;
     background-color: #4aaaa5;
     color: white;
     padding-left: 20px;
     padding-right: 20px;
     text-align: center;
+    padding-top: 10px;
 }
-
+a:hover {
+    background-color: lightgray;
+}
 
 
 
@@ -104,6 +105,3 @@ h2 {
     height: 50px;
 }
 
-a:link {
-    text-decoration: none;
-}

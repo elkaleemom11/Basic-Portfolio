@@ -60,6 +60,13 @@ h2 {
     color: #4aaaa5;
 }
 
+
+a:hover {
+    background-color: lightgray;
+}
+
+
+
 textarea {
     width: 100%;
 }
@@ -83,6 +90,3 @@ textarea {
     height: 50px;
 }
 
-a:link {
-    text-decoration: none;
-}
